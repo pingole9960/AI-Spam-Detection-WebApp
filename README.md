@@ -9,8 +9,8 @@ The application is built using **Python, Scikit-learn, and Streamlit**, and uses
 ## 🚀 Live Demo
 
 Deployed Web App
-(Add your deployment link here)
-
+[(Add your deployment link here)
+](https://ai-spam-detection-webapp-pwxtuqllpuy5bqyfmbsywq.streamlit.app/)
 ---
 
 ## 📌 Project Highlights
